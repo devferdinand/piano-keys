@@ -8,3 +8,7 @@
 + Git and GitHub
 + Command line
 + DOM Events
+
+## How to use
+1. Open Git Bash/terminal and git clone https://github.com/devferdinand/piano-keys.git
+2. Open the directory and open index.html file with Google Chrome
